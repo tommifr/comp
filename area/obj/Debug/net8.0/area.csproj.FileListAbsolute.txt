@@ -1,0 +1,14 @@
+c:\Users\tommi.frykman\Documents\comp\area\bin\Debug\net8.0\area.exe
+c:\Users\tommi.frykman\Documents\comp\area\bin\Debug\net8.0\area.deps.json
+c:\Users\tommi.frykman\Documents\comp\area\bin\Debug\net8.0\area.runtimeconfig.json
+c:\Users\tommi.frykman\Documents\comp\area\bin\Debug\net8.0\area.dll
+c:\Users\tommi.frykman\Documents\comp\area\bin\Debug\net8.0\area.pdb
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.AssemblyInfoInputs.cache
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.AssemblyInfo.cs
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.csproj.CoreCompileInputs.cache
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.dll
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\refint\area.dll
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.pdb
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\area.genruntimeconfig.cache
+c:\Users\tommi.frykman\Documents\comp\area\obj\Debug\net8.0\ref\area.dll
